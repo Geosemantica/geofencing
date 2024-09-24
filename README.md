@@ -1,6 +1,11 @@
 # Geofencing Service
 
+![Geofencing for bumping zones](safety-monitoring.webp)
+
+Read more about our geofencing services [here](https://geosemantica.com/post/3d-geofencing-mining-safety-monitoring) 
+
 ## Description
+
 This project provides a geofencing service that determines the location of entities relative to defined hazardous zones. It interacts with a PostgreSQL database and utilizes message queues for real-time updates and notifications.
 
 ## Features
